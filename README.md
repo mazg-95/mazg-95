@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 👾 I am currently working as Senior Data Engineer
 - :atom: I am looking to collaborate on data-intensive applications.
 - 🌱 I am committed to expanding my skills and developing innovative solutions to drive professional growth
-- 📫 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marzuguz/)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marzuguz/)
 - 🗺️ Traveller
 
 ---
@@ -61,6 +61,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazg-95)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="bad_jokes" align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
