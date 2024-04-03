@@ -37,4 +37,8 @@ Here are some ideas to get you started:
 - :atom: I am looking to collaborate on data-intensive applications.
 - 🌱 I am committed to expanding my skills and developing innovative solutions to drive professional growth
 - 📫 How to reach me: mazg95@gmail.com
-- 🗺️ Traveller 
+- 🗺️ Traveller
+
+<div id="bad_jokes" align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</div>
