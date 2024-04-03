@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - 👷 Experience developing innovative solutions using Python and modern web frameworks (FastAPI, Flask)
 - 👾 I am currently working as Senior Data Engineer
 - :atom: I am looking to collaborate on data-intensive applications.
-- 🌱 I am committed to expanding my skills and developing innovative solutions to drive professional growth
+- 🌱 I am committed to expanding my skills and developing innovative solutions.
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marzuguz/)
 - 🗺️ Traveller
 
