@@ -62,9 +62,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mazg-95)](https://github.com/anuraghazra/github-readme-stats)
-
-<div id="bad_jokes" align="center">
+<div id="widgets" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mazg-95&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Top languages" height="192px"  width="500px"/>
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
